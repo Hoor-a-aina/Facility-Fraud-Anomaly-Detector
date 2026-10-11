@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+data/transactions.csv
+reports/results/*.csv
+reports/results/*.json
+reports/figures/*.png

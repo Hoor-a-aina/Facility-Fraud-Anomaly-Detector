@@ -1,0 +1,4 @@
+date,item,purpose,planned_cost_pkr,actual_cost_pkr,notes
+2026-10-11,Python and open-source packages,Local development,0,0,Package installation uses local environment; internet data charges if any are not separately measured
+2026-10-11,Local CPU compute,Training and evaluation,0,0,No paid cloud resources
+2026-10-11,GitHub free repository,Portfolio delivery,0,0,Assumes free account/features
